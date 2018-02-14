@@ -4,7 +4,7 @@ We'd all love to have a reliable and tested library of components to pick from w
 
 ## About
 
-**Speaker:** Dylan Hughes
+**Speaker:** [Dylan Hughes](https://www.twitter.com/dylanbhughes)
 **Date:** February 13, 2018
 **Location:** Optoro (Washington, DC)
 
