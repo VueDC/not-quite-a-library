@@ -5,9 +5,13 @@ We'd all love to have a reliable and tested library of components to pick from w
 ## About
 
 **Speaker:** [Dylan Hughes](https://www.twitter.com/dylanbhughes)
+
 **Date:** February 13, 2018
+
 **Location:** Optoro (Washington, DC)
 
 ## Resources
 
-[Inspired by Marty Cagan](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N/ref=sr_1_1?ie=UTF8&qid=1518566768&sr=8-1&keywords=inspired)
+* [Recording](https://www.youtube.com/watch?v=jfa0p_esE1Q)
+* [Slides](https://github.com/VueDC/not-quite-a-library/blob/master/Not%20Quite%20a%20Library%20Slides.pdf)
+* [Inspired by Marty Cagan](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N/ref=sr_1_1?ie=UTF8&qid=1518566768&sr=8-1&keywords=inspired)
